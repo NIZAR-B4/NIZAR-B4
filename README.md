@@ -70,12 +70,7 @@ Je suis un développeur Full Stack spécialisé dans la création d'applications
 - **Technologies :** React, Laravel, MySQL, WebRTC.  
 - **Objectif :** Améliorer l'accès aux soins à distance.  
 
----
 
-### *🏫 Gestion d’École*  
-- **Description :** Application web pour la gestion administrative des écoles.  
-- **Technologies :** Laravel, React, MySQL.  
-- **Objectif :** Optimiser la gestion des élèves et enseignants.  
 
 ---
 
