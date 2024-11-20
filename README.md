@@ -1,16 +1,46 @@
-## Hi there 👋
+🌐 Nizar Beanakkadou
+Développeur Full Stack | Passionné par l'Innovation Web
 
-<!--
-**NIZAR-B4/NIZAR-B4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un développeur Full Stack spécialisé dans la conception et le déploiement d'applications web modernes et performantes. Avec une expertise en React, Laravel, PHP, Python, et MySQL, je m'efforce de fournir des solutions adaptées aux besoins des clients, tout en respectant les principes d'ergonomie et d'efficacité. Je suis motivé par les défis techniques et par l'envie d’apprendre en continu.
 
-Here are some ideas to get you started:
+🛠 Compétences Techniques
+💻 Langages de Programmation
+HTML5, CSS3, JavaScript, PHP, Python
+SQL, NoSQL (MongoDB)
+🔧 Frameworks & Bibliothèques
+React, Laravel, Bootstrap, Tailwind CSS, Node.js
+💾 Bases de Données
+MySQL, PostgreSQL, MongoDB
+⚙️ Outils et Technologies
+Git, GitLab, CI/CD, WordPress
+Figma (UI/UX Design), Cloud Computing (Déploiement scalable)
+🛠 Autres Compétences
+Gestion d'inventaire et finances avec Excel
+Maîtrise de Microsoft Dynamics pour la gestion d'entreprise
+🚀 Projets Récents
+📚 Bibliothèque Réservation
+Description : Un système pour gérer les ressources des bibliothèques.
+Technologies : PHP, MySQL, HTML5, CSS3
+Fonctionnalités : Gestion des utilisateurs et des livres, réservation en ligne.
+💻 Plateforme de Téléconsultation
+Description : Outil facilitant l'accès à des consultations médicales en ligne.
+Technologies : Laravel, React, MySQL, WebRTC
+Fonctionnalités : Gestion des patients/médecins, consultations vidéo, tableau de bord.
+🏫 Gestion de reservation de terrain de football
+Description : Application web pour la gestion des terrain.
+Technologies : Laravel, MySQL
+🛒 Site E-commerce
+Description : Création d’une boutique en ligne intuitive.
+Technologies : Laravel, MySQL, Bootstrap
+Fonctionnalités : Catalogue, gestion des commandes/paiements.
+👩‍🎓 Gestion des Stagiaires
+Description : Système de suivi des stagiaires pour les entreprises.
+Technologies : Laravel, React, MySQL
+Fonctionnalités : Enregistrement, suivi des projets et rapports.
+🎯 Objectif Professionnel
+Je souhaite contribuer à des projets innovants qui combinent technologies modernes et impact positif, tout en renforçant mes compétences en développement Full Stack. Mon objectif est de devenir un acteur clé dans la création d’applications fiables et évolutives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 Contact
+📧 Email : nizar123456@gmail.com
+📞 Téléphone : 0629988208
+🌐 Portfolio : https://nizar47.wordpress.com
