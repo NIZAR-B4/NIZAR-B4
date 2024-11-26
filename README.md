@@ -77,6 +77,12 @@ Je suis un développeur Full Stack spécialisé dans la création d'applications
 Utiliser mes compétences en développement Full Stack pour résoudre des problématiques réelles et contribuer à des projets innovants et impactants.
 
 ---
+📈 **Statistiques GitHub**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nizar47&show_icons=true&hide_title=true&count_private=true&theme=dark)  
+
+**Top Langs:**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nizar47&langs_count=10&theme=dark)
+
 
 ## 🤝 **Contactez-moi**  
 
