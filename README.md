@@ -86,7 +86,7 @@ Utiliser mes compétences en développement Full Stack pour résoudre des probl�
 
 ## 🤝 **Contactez-moi**  
 
-📧 **Email :** [nizar123456@gmail.com](mailto:nizar123456@gmail.com)  
+📧 **Email :** [nizar.ben123456@gmail.com](mailto:nizar.ben123456@gmail.com)  
 📞 **Téléphone :** 0629988208  
 🌐 **Portfolio :** [nizar47.wordpress.com](https://nizar47.wordpress.com)  
 💼 **LinkedIn :** [Mon LinkedIn](https://www.linkedin.com/in/nizar-benakkadou-2bb541311/)  
