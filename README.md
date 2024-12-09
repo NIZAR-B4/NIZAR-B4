@@ -1,6 +1,6 @@
-# 🌐 **Nizar Benakkadou**  
+# 🌐 Nizar Benakkadou  
 
-**Développeur Full Stack Passionné | Créateur de Solutions Digitales Innovantes**  
+**`Développeur Full Stack Passionné | Créateur de Solutions Digitales Innovantes`**
 
 Je suis un développeur Full Stack spécialisé dans la création d'applications web performantes et intuitives. Avec une expertise solide en **Laravel**, **React**, et **MySQL**, je m'engage à résoudre des problématiques concrètes tout en offrant des expériences utilisateurs modernes et immersives. Toujours curieux et motivé, je suis constamment à la recherche de nouveaux défis pour affiner mes compétences et apporter une valeur ajoutée à chaque projet.  
 
@@ -89,4 +89,4 @@ Utiliser mes compétences en développement Full Stack pour résoudre des probl�
 📧 **Email :** [nizar.ben123456@gmail.com](mailto:nizar.ben123456@gmail.com)  
 📞 **Téléphone :** 0629988208  
 🌐 **Portfolio :** [nizar47.wordpress.com](https://nizar47.wordpress.com)  
-💼 **LinkedIn :** [Mon LinkedIn](https://www.linkedin.com/in/nizar-benakkadou-2bb541311/)  
+💼 **LinkedIn :** [Mon LinkedIn](https://www.linkedin.com/in/nizar-benakkadou-2bb541311/)
