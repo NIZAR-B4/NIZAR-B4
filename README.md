@@ -81,7 +81,7 @@ Utiliser mes compétences en développement Full Stack pour résoudre des probl�
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nizar47&show_icons=true&hide_title=true&count_private=true&theme=dark)  
 
 **Top Langs:**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nizar47&langs_count=10&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nizar47&langs_count=10&theme=blue)
 
 
 ## 🤝 **Contactez-moi**  
