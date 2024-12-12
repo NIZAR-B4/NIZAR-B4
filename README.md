@@ -71,6 +71,12 @@ Je suis un développeur Full Stack spécialisé dans la création d'applications
 - **Objectif :** Simplifier le suivi des projets et rapports de stages.
 
 ---
+## 📈 **Statistiques GitHub**
+
+![Nizar's GitHub stats](https://github-readme-stats.vercel.app/api?username=NIZAR-BENAKKADOU&count_private=true&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIZAR-BENAKKADOU&layout=compact&theme=aura&langs_count=9)
+
+----
 
 ## 🎯 **Objectif de Carrière**
 
